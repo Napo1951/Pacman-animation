@@ -1,3 +1,5 @@
+https://napo1951.github.io/Pacman-animation/
+
 <h1>Pacman-animation</h1>
 <h2>The Project</h2>
 <p>This code is showing the movement of a Pacman character from left to right and changing direction once touching the edge of the screen</p>
