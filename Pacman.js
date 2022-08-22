@@ -8,7 +8,7 @@ var direction = 0;
 var focus = 0;
 
 function Run() {
-  let img = document.getElementById("PacMan");
+  let img = document.getElementById('PacMan');
   let imgWidth = img.width;
   focus = (focus + 1) % 2;
   direction = checkPageBounds(direction, imgWidth, pos, pageWidth);
